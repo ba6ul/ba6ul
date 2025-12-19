@@ -8,9 +8,8 @@
 ![Godot Engine](https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=330066)
+
 
 <!---
-ba6ul/ba6ul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=330066)
 --->
