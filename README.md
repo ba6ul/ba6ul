@@ -9,7 +9,9 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
+### 📁 Projects
 
+- 📱 **[inicons](https://play.google.com/store/apps/details?id=com.hapapps.inicons&pcampaignid=web_share)** - Icon pack for Productivity (Android)
 <!---
 ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=330066)
 --->
