@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @ba6ul
-- 👀 I’m interested in Animation and motion graphics
-- 🌱 I’m currently learning Android Studio
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ### 🛠 My Tech Stack
 ![Godot Engine](https://img.shields.io/badge/Godot-%23478cbf.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
