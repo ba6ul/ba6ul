@@ -16,28 +16,28 @@ turning the boring parts of my own workflow into open-source packages.
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### 📱 Apps
-- 📱 **[Vishram](https://play.google.com/store/apps/details?id=com.hap.vishram)** — Movie tracking app with a badge-based gamification system (Flutter)
-- 🎮 **[Sudooku](https://play.google.com/store/apps/details?id=com.hapgames.sudoku)** — Sudoku game with a puzzle generator, hint system, streaks and save slots (Godot 4) · [Repo](https://github.com/ba6ul/Sudooku)
-- 🎨 **[inicons](https://play.google.com/store/apps/details?id=com.hapapps.inicons&pcampaignid=web_share)** — Icon pack built around productivity apps (Android)
+###  Apps
+-  **[Vishram](https://play.google.com/store/apps/details?id=com.hap.vishram)** — Movie tracking app with a badge-based gamification system (Flutter)
+-  **[Sudooku](https://play.google.com/store/apps/details?id=com.hapgames.sudoku)** — Sudoku game with a puzzle generator, hint system, streaks and save slots (Godot 4) · [Repo](https://github.com/ba6ul/Sudooku)
+-  **[inicons](https://play.google.com/store/apps/details?id=com.hapapps.inicons&pcampaignid=web_share)** — Icon pack built around productivity apps (Android)
 
-### 🧰 Desktop & CLI
-- 📺 **[Voyager](https://github.com/ba6ul/voyager)** — Frictionless Android screen mirroring on Windows: pure Dart adb client, USB plug-and-play, and wireless over the phone's own hotspot with no wireless-debugging toggle
-- 🗂️ **[Kram](https://github.com/ba6ul/Kram)** — Project organiser for video/photo editors and designers on Windows. Scaffolds a project folder, then keeps sorting whatever you dump in its root (PowerShell)
+###  Desktop & CLI
+-  **[Voyager](https://github.com/ba6ul/voyager)** — Frictionless Android screen mirroring on Windows: pure Dart adb client, USB plug-and-play, and wireless over the phone's own hotspot with no wireless-debugging toggle
+-  **[Kram](https://github.com/ba6ul/Kram)** — Project organiser for video/photo editors and designers on Windows. Scaffolds a project folder, then keeps sorting whatever you dump in its root (PowerShell)
 
-### 💙 Flutter packages & starters
-- 🔐 **[multi-role-flutter-auth](https://github.com/ba6ul/multi-role-flutter-auth)** — Role-based auth template with Supabase: modular onboarding and per-role dashboards, ready to clone
-- 🧩 **[flutter_auth_kit](https://github.com/ba6ul/flutter_auth_kit)** — The logic half of the above: bloc/cubit, domain and repository layers, no UI, so screens stay app-owned
-- 🧱 **[haripin_bricks](https://github.com/ba6ul/haripin_bricks)** — Mason bricks for scaffolding app-owned boilerplate (auth presentation, core, uikit) — generate once, then it's yours to edit
-- 👆 **[transparent_tap](https://github.com/ba6ul/transparent_tap)** — Small widget that makes an image click-through on its transparent pixels; taps on visible pixels behave normally
+###  Flutter packages & starters
+-  **[multi-role-flutter-auth](https://github.com/ba6ul/multi-role-flutter-auth)** — Role-based auth template with Supabase: modular onboarding and per-role dashboards, ready to clone
+-  **[flutter_auth_kit](https://github.com/ba6ul/flutter_auth_kit)** — The logic half of the above: bloc/cubit, domain and repository layers, no UI, so screens stay app-owned
+-  **[haripin_bricks](https://github.com/ba6ul/haripin_bricks)** — Mason bricks for scaffolding app-owned boilerplate (auth presentation, core, uikit) — generate once, then it's yours to edit
+-  **[transparent_tap](https://github.com/ba6ul/transparent_tap)** — Small widget that makes an image click-through on its transparent pixels; taps on visible pixels behave normally
 
-### 🌐 Web & integrations
-- 🖥️ **[Portfolio Template](https://github.com/ba6ul/ba6ul-portfolio-template)** — Open-source developer portfolio built with Next.js + Tailwind CSS · [Demo](https://www.haripin.com/about/ba6ul)
-- 💳 **[Bagisto Razorpay Payment Gateway](https://github.com/ba6ul/bagisto_razorpay)** — Razorpay integration for Bagisto 2.x with secure payment verification, automatic invoice generation and configurable admin settings
+###  Web & integrations
+-  **[Portfolio Template](https://github.com/ba6ul/ba6ul-portfolio-template)** — Open-source developer portfolio built with Next.js + Tailwind CSS · [Demo](https://www.haripin.com/about/ba6ul)
+-  **[Bagisto Razorpay Payment Gateway](https://github.com/ba6ul/bagisto_razorpay)** — Razorpay integration for Bagisto 2.x with secure payment verification, automatic invoice generation and configurable admin settings
 
 ### ⚙️ Automation & scripts
-- 📅 **[HabitiCalender](https://github.com/ba6ul/HabitiCalender)** — Google Apps Script that syncs Habitica tasks to Google Calendar
-- 🧠 **[obsidian-ai-gtd-system](https://github.com/ba6ul/obsidian-ai-gtd-system)** — GTD workflow for Obsidian, packaged as an AI skill with helper scripts
+-  **[HabitiCalender](https://github.com/ba6ul/HabitiCalender)** — Google Apps Script that syncs Habitica tasks to Google Calendar
+-  **[obsidian-ai-gtd-system](https://github.com/ba6ul/obsidian-ai-gtd-system)** — GTD workflow for Obsidian, packaged as an AI skill with helper scripts
 
 <!--- Public but not ready to show / archived experiments — uncomment when polished
 - 🎬 **[ScreenFX for After Effects](https://github.com/ba6ul/screenfx-after-effects-extension)** — CEP extension for screen-replacement workflows (free build) · [dev repo](https://github.com/ba6ul/screenfx-after-effects-extension-dev)
